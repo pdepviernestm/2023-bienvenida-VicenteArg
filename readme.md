@@ -2,6 +2,8 @@
 
 ## Me llamo Vicente Argüello, soy estudiante de Ingenieria en Sistemas, ya es mi segundo año sobreviviendo en la UTN.
 
+### LEGAJO: 2088472
+
 - Soy de Misiones, pero actualmente vivo en Morón.
 
 **Mis actividades favoritas son:**
