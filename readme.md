@@ -15,9 +15,6 @@
     - Gym 
     - Bicicleta 🚲
     - Trotar 🏃‍♂️
-    
-**Puedes encontrarme en :rocket: 🤳:**
--  :link: [Instagram](https://www.instagram.com/vicentearguello44/)
 
 ![Img](https://i.ibb.co/YfpmJPF/20230408-214703.jpg)
 
@@ -28,4 +25,7 @@ Soy padre de dos perros rottwailer, Roco y Kira.
 
 - ### Les presento a Kira
 ![KIRA](https://acortar.link/pW3ACt)
+
+### **Puedes encontrarme en :rocket: 🤳:**
+-  :link: [Instagram](https://www.instagram.com/vicentearguello44/)
 
