@@ -5,7 +5,8 @@
 **Mis actividades favoritas son:**
 - Lectura :book: sobre todo me gusta Dostoievski
     - > "*Es mejor equivocarse siguiendo tu propio camino que tener razón siguiendo el camino de otro.*"
-- Programacion
+- Programación
+    - Soy muy novato, pero tengo experiencia en **Visual Basic, Java Script, C, C++** y estoy orgulloso de dictar un curso de introducción en programación a mis compañeros en mi estudios terciarios, con excelentes resultados. 
 - Escuchar musica
 - Deportes:
     - Boxeo 🥊
