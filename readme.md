@@ -2,6 +2,8 @@
 
 ## Me llamo Vicente Argüello, soy estudiante de Ingenieria en Sistemas, ya es mi segundo año sobreviviendo en la UTN.
 
+- Soy de Misiones, pero actualmente vivo en Morón.
+
 **Mis actividades favoritas son:**
 - Lectura :book: sobre todo me gusta Dostoievski
     - > "*Es mejor equivocarse siguiendo tu propio camino que tener razón siguiendo el camino de otro.*"
@@ -18,3 +20,12 @@
 -  :link: [Instagram](https://www.instagram.com/vicentearguello44/)
 
 ![Img](https://i.ibb.co/YfpmJPF/20230408-214703.jpg)
+
+Soy padre de dos perros rottwailer, Roco y Kira.
+
+- ### Les presento a Roco
+![ROCO](https://acortar.link/ddGK4O)
+
+- ### Les presento a Kira
+![KIRA](https://acortar.link/pW3ACt)
+
